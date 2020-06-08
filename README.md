@@ -10,7 +10,6 @@ zsh-autosuggestions
 zsh-syntax-highlighting
 kubectl
 aws
-)
 ```
 
 Theme: 
@@ -23,21 +22,27 @@ ZSH_THEME="agnoster"
 - VSCode: YAML, shell scripting
 - Sublime Text: light-weight editor for openning single files
 - PyCharm / Goland: programming projects
-- Postman: make HTTP calls, testing
 
 VSCode plugins:
 ```
-Docker
+# docker
+Docker 
 Docker Linter
+
+#git
 Git Graph
 GitLens
+
+# yaml
 indent-rainbow
+YAML
+
+#other
 Markdown All-in-one
 NGINX configuration
 output colorizer
 shellcheck
 python
-YAML
 ```
 
 ## Chatops
