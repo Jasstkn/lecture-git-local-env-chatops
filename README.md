@@ -1,4 +1,4 @@
-# lecture-gitops
+# lecture-git
 
 ## Local environment
 1. zsh + oh-my-zsh
