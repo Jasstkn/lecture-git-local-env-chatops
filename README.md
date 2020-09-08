@@ -48,3 +48,4 @@ python
 ## Chatops
 1. Demo stackstorm: https://habr.com/ru/post/260917/
 2. Diving into stackstorm: https://oswalt.dev/2016/12/introduction-to-stackstorm/
+3. Demo stackstorm with Vagrant: https://github.com/StackStorm/showcase-ansible-chatops
